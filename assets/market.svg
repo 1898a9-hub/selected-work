@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 290" fill="none">
+<defs><pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><path d="M23 0H0v23" stroke="#9b7852" stroke-opacity=".18"/></pattern></defs>
+<path fill="#e7dac4" d="M0 0h660v290H0z"/><path fill="url(#grid)" d="M0 0h660v290H0z"/>
+<g stroke="#a48258"><path d="M25 53V25h28m582 28V25h-28M25 237v28h28m582-28v28h-28"/><path d="M172 89h48l48 53h47m-143 0h143m-143 53h48l48-53m103 0h57l37-33m-37 33 37 34" stroke-width="1.7" stroke-dasharray="4 4"/></g>
+<g fill="#fbf3e3" stroke="#9f7b50" stroke-width="1.5"><rect x="96" y="69" width="100" height="39" rx="6"/><rect x="96" y="122" width="100" height="39" rx="6"/><rect x="96" y="175" width="100" height="39" rx="6"/><rect x="462" y="88" width="110" height="42" rx="6"/><rect x="462" y="155" width="110" height="42" rx="6"/></g>
+<rect x="300" y="106" width="86" height="72" rx="11" fill="#855d3c" stroke="#68462e" stroke-width="1.5"/>
+<path d="M328 141l10 10 21-21" stroke="#fff1d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g text-anchor="middle" font-family="monospace" fill="#63472f" font-size="12"><text x="146" y="93">AMAZON TR</text><text x="146" y="146">TRENDYOL</text><text x="146" y="199">HEPSIBURADA</text><text x="517" y="113">EXACT SKU</text><text x="517" y="180">PRICE CHECK</text></g>
+<g font-family="monospace" fill="#694c31" font-size="10" letter-spacing="1.5"><text x="37" y="278">04 / COMMERCE DATA</text><text x="623" y="278" text-anchor="end">PIPELINE DIAGRAM</text></g>
+</svg>

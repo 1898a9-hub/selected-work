@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 475" fill="none">
+<defs>
+ <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M0 25V0h25" stroke="#8caa9d" stroke-opacity=".16"/><circle cx="0" cy="0" r="1.3" fill="#a5c5b5" opacity=".30"/></pattern>
+ <radialGradient id="wash" cx=".48" cy=".48" r=".72"><stop stop-color="#2c5340"/><stop offset="1" stop-color="#142e26"/></radialGradient>
+ <linearGradient id="panel" x1="120" y1="80" x2="456" y2="325" gradientUnits="userSpaceOnUse"><stop stop-color="#2a493d"/><stop offset="1" stop-color="#17362c"/></linearGradient>
+ <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0v6" stroke="#97bdab" stroke-opacity=".19" stroke-width="2"/></pattern>
+ <marker id="arrow" markerWidth="5" markerHeight="6" refX="4" refY="3" orient="auto"><path d="M0 0l5 3-5 3z" fill="#a1cbb3"/></marker>
+</defs>
+<path fill="url(#wash)" d="M0 0h580v475H0z"/><path fill="url(#grid)" d="M0 0h580v475H0z"/>
+<path d="M26 76V27h50m478 49V27h-50M26 399v49h50m478-49v49h-50" stroke="#9cc3ad" stroke-opacity=".5"/>
+<path d="M52 238h476M290 60v352" stroke="#c0d6b9" stroke-opacity=".25" stroke-dasharray="4 7"/>
+<g font-family="monospace" font-size="10" letter-spacing="2" fill="#b4d3c1"><text x="46" y="54">FIG. 01</text><text x="536" y="54" text-anchor="end">SYSTEMS / FIELD NOTES</text><text x="45" y="428">SIGNAL PATH</text><text x="536" y="428" text-anchor="end">INPUT → OUTPUT</text></g>
+<path d="M99 338l170-98 217 43-170 98z" fill="url(#hatch)" stroke="#709e85" stroke-opacity=".42"/>
+<path d="M96 300l79-47 180 34 113-65m-322 129 154 31 112-65" stroke="#a1cbb3" stroke-opacity=".65" stroke-dasharray="5 5"/>
+<path d="M107 317l32 7 41-24m244 19 60-34 28 5m-84-144 50-28 39 8" stroke="#a1cbb3" stroke-width="1.2" marker-end="url(#arrow)"/>
+<g transform="translate(148 121) scale(.85) matrix(1 .19 -.73 .45 0 118)">
+ <rect x="15" y="19" width="317" height="204" rx="12" fill="#142d24" stroke="#70a18a" stroke-width="2"/>
+ <rect width="317" height="204" rx="12" fill="#244638" stroke="#c6dfc6" stroke-width="2"/>
+ <path d="M14 28h289" stroke="#90ae9a" opacity=".7"/><circle cx="16" cy="15" r="2.4" fill="#d9f996"/><circle cx="25" cy="15" r="2.4" fill="#749e89"/><circle cx="34" cy="15" r="2.4" fill="#749e89"/>
+ <path d="M268 14h32M18 55h42m-42 14h36m-36 14h27m-27 14h40m-40 14h31m-31 14h38" stroke="#95b6a3" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+ <rect x="75" y="49" width="223" height="103" rx="5" fill="#19372c" stroke="#789f89"/>
+ <path d="M87 73h199M87 97h199M87 121h199M110 57v88m29-88v88m29-88v88m29-88v88m29-88v88m29-88v88" stroke="#769a85" opacity=".3"/>
+ <path d="M88 128l26-11 22 7 25-26 29 5 24-29 21 22 17-12 13-17 20 4" stroke="#d9f996" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="214" cy="74" r="5" fill="#d9f996"/><circle cx="265" cy="67" r="4" fill="#d9f996"/>
+ <rect x="75" y="167" width="59" height="17" rx="3" stroke="#749e89"/><rect x="146" y="167" width="59" height="17" rx="3" stroke="#749e89"/><rect x="217" y="167" width="81" height="17" rx="3" stroke="#749e89"/>
+</g>
+<g transform="translate(313 97) matrix(1 .19 -.73 .45 40 28)">
+ <rect x="10" y="11" width="134" height="106" rx="7" fill="#15342a" stroke="#77a78d" stroke-width="1.5"/><rect width="134" height="106" rx="7" fill="url(#panel)" stroke="#b5d3bc" stroke-width="1.5"/>
+ <path d="M20 78V58m18 20V40m18 38V49m18 29V25m18 53V37m18 41V18" stroke="#d8f98e" stroke-width="7" stroke-linecap="round"/>
+ <path d="M18 91h93" stroke="#93af9d" stroke-width="2" stroke-dasharray="4 4"/>
+</g>
+<g transform="translate(415 254) matrix(1 .19 -.73 .45 30 12)">
+ <rect x="7" y="11" width="71" height="113" rx="9" fill="#132d24" stroke="#8ab69c" stroke-width="2"/><rect width="71" height="113" rx="9" fill="#335344" stroke="#d0e6cb" stroke-width="2"/>
+ <rect x="7" y="12" width="57" height="86" rx="4" fill="#18362b" stroke="#87ad97"/><path d="M26 6h19m-16 100h12" stroke="#c2dbc7" stroke-width="2" stroke-linecap="round"/>
+ <path d="M17 49l12 12 23-27" stroke="#dbfb96" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M19 76h32m-27 7h22" stroke="#8ab69c" stroke-width="2"/>
+</g>
+<g fill="#dcfb98" stroke="#1a392e" stroke-width="3"><circle cx="107" cy="317" r="6"/><circle cx="428" cy="146" r="6"/><circle cx="424" cy="319" r="6"/></g>
+<g font-family="monospace" font-size="9" letter-spacing="1.4" fill="#c4dac9"><text x="65" y="344">01 / MONITOR</text><text x="463" y="101">02 / DATA</text><text x="462" y="314">03 / DEVICE</text></g>
+</svg>

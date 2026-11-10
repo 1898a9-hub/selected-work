@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 290" fill="none">
+<defs><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0v22" stroke="#8ab49d" stroke-opacity=".15"/></pattern><linearGradient id="area" x1="0" y1="102" x2="0" y2="194" gradientUnits="userSpaceOnUse"><stop stop-color="#d9fa8f" stop-opacity=".35"/><stop offset="1" stop-color="#d9fa8f" stop-opacity="0"/></linearGradient></defs>
+<path fill="#203b32" d="M0 0h660v290H0z"/><path fill="url(#grid)" d="M0 0h660v290H0z"/>
+<g stroke="#9fc2ad" stroke-opacity=".6"><path d="M25 52V25h27m583 27V25h-27M25 238v27h27m583-27v27h-27"/><rect x="104" y="44" width="452" height="202" rx="13" fill="#24463a"/><path d="M104 78h452m-319 0v168"/></g>
+<g fill="#a0c2af"><circle cx="124" cy="61" r="3"/><circle cx="135" cy="61" r="3"/><circle cx="146" cy="61" r="3"/><rect x="142" y="107" width="61" height="5" rx="2"/><rect x="142" y="137" width="48" height="5" rx="2"/><rect x="142" y="167" width="54" height="5" rx="2"/><rect x="142" y="197" width="39" height="5" rx="2"/></g>
+<g fill="#d9fa8f"><circle cx="127" cy="109" r="3"/><circle cx="127" cy="139" r="3"/><circle cx="127" cy="169" r="3"/><circle cx="127" cy="199" r="3"/></g>
+<path d="M258 115h273m-273 28h273m-273 28h273m-273 28h273M281 100v117m50-117v117m50-117v117m50-117v117m50-117v117" stroke="#9fc2ad" stroke-opacity=".2"/>
+<path d="M259 188l32-6 29-20 25 13 35-38 27 15 31-24 21 12 28-29 43 5v93H259z" fill="url(#area)"/><path d="M259 188l32-6 29-20 25 13 35-38 27 15 31-24 21 12 28-29 43 5" stroke="#d9fa8f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g font-family="monospace" fill="#c0d4c5" font-size="10" letter-spacing="1.5"><text x="37" y="278">01 / FIELD OPERATIONS</text><text x="623" y="278" text-anchor="end">ILLUSTRATION</text></g>
+</svg>
